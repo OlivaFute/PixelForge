@@ -1,0 +1,17 @@
+/.deps/
+/.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.env
+.env.*
+!.env.example
+
+/output/
+/tests/
+/tools/
+/DELIVERY.md
+/Rebuild.cmd
+/Watch.cmd
+/run.ps1
+*.log
